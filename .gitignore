@@ -1,5 +1,6 @@
 fish/kubectl_aliases.fish
 fish/conf.d/*
+fish/fish_variables
 
 k9s/clusters
 k9s/k9s.log
