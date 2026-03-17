@@ -79,3 +79,5 @@ end
 test -f $HOME/.system.fish; and source $HOME/.system.fish
 test -f $HOME/.aliases.sh; and source $HOME/.aliases.sh
 test -f $HOME/.config/fish/kubectl_aliases.fish; and source $HOME/.config/fish/kubectl_aliases.fish
+
+abbr cdf "cd (find * -type d | fzf)"
